@@ -19,9 +19,10 @@ The objective of this project was to design and implement a complete, modern, an
 
 - React
 - Vite
-- JavaScript (ES6+)
+- JavaScript
 - HTML5
-- CSS3 (Custom styling – no Tailwind)
-- Git & GitHub
+- CSS3 
+- GitHub
+
 
 
