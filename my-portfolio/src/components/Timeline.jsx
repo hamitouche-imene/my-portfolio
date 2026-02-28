@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+ import { useEffect } from "react";
 
 export default function Timeline() {
 
@@ -11,10 +11,12 @@ export default function Timeline() {
           entry.target.classList.add("show");
         }
       });
-    }, { threshold: 0.3 });
+    },
+                                              { threshold: 0.3 });
 
     items.forEach(item => observer.observe(item));
-  }, []);
+  },
+            []);
 
   return (
     <section className="timeline-section">
