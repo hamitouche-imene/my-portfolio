@@ -6,7 +6,7 @@ The objective of this project was to design and implement a complete, modern, an
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Build a fully responsive portfolio website
 - Apply modern UI/UX design principles
@@ -15,7 +15,7 @@ The objective of this project was to design and implement a complete, modern, an
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - React
 - Vite
@@ -24,11 +24,4 @@ The objective of this project was to design and implement a complete, modern, an
 - CSS3 (Custom styling – no Tailwind)
 - Git & GitHub
 
----
-
-
-
-## 🚀 Live Version
-
-(Insert your deployed link here)
 
