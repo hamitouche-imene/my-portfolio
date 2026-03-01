@@ -2,8 +2,6 @@
 
 This portfolio was developed as part of a professional training program in Web Development.
 
-The objective of this project was to design and implement a complete, modern, and responsive personal portfolio using a structured development workflow and industry best practices.
-
 ---
 
 ##  Project Objectives
@@ -20,9 +18,9 @@ The objective of this project was to design and implement a complete, modern, an
 - React
 - Vite
 - JavaScript
-- HTML5
-- CSS3 
-- GitHub
+- HTML 
+- CSS 
+
 
 
 
